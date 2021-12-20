@@ -1,0 +1,3 @@
+E:\Anul 2\557577\3D Graphics\ACW\Labs\obj\Debug\ACW-3D-557577.csproj.CoreCompileInputs.cache
+E:\Anul 2\557577\3D Graphics\ACW\Labs\obj\Debug\Labs.exe
+E:\Anul 2\557577\3D Graphics\ACW\Labs\obj\Debug\Labs.pdb
